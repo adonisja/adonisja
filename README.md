@@ -26,7 +26,7 @@ I'm currently a **college junior** pursuing a degree in **Computer Science** wit
 
 Feel free to reach out to me if you'd like to collaborate on projects or if you have any opportunities in cybersecurity or software engineering! Especially contact me if you have any ideas or tips on areas to improve my knowledge base
 
-# Thanks for Visiting 👍🏾
+### Thanks for Visiting 👍🏾
 
 ---
 

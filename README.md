@@ -22,7 +22,7 @@ I'm currently a **college junior** pursuing a degree in **Computer Science** wit
 ## 📫 How to Reach Me
 - **LinkedIn**: www.linkedin.com/in/akkeem-tyrell
 - **Github**: www.github.com/adonisja
-- **Email**: www.tyrellakkeem@gmail.com
+- **Email**: tyrellakkeem@gmail.com
 
 Feel free to reach out to me if you'd like to collaborate on projects or if you have any opportunities in cybersecurity or software engineering!
 

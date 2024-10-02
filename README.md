@@ -1,6 +1,6 @@
 # Hi, I'm Akkeem 👋
 
-I'm currently a **college junior** pursuing a degree in **Computer Science** with a deep interest in **Cybersecurity** and **Software Engineering**. Over the course of my studies, I have developed a strong foundation in **Python**, reaching an intermediate level, and I'm also expanding my knowledge in **Cybersecurity** and **Data Analysis**.
+I'm currently a **college junior** pursuing a degree in **Computer Science** with a deep interest in **Cybersecurity** and **Software Engineering**. Over the course of my studies, I have developed a strong foundation in **Python**, reaching an intermediate level, and I'm also expanding my knowledge in **Cybersecurity** and **Data Analysis**, I have also begun to explore **Prompt Engineering** and **Vectorization** to understand how AI will impact my future career.
 
 ## 🔧 Technologies & Skills
 - **Programming Languages**: Python (Intermediate)
@@ -24,7 +24,9 @@ I'm currently a **college junior** pursuing a degree in **Computer Science** wit
 - **Github**: www.github.com/adonisja
 - **Email**: tyrellakkeem@gmail.com
 
-Feel free to reach out to me if you'd like to collaborate on projects or if you have any opportunities in cybersecurity or software engineering!
+Feel free to reach out to me if you'd like to collaborate on projects or if you have any opportunities in cybersecurity or software engineering! Especially contact me if you have any ideas or tips on areas to improve my knowledge base
+
+# Thanks for Visiting 👍🏾
 
 ---
 

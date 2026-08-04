@@ -1,6 +1,6 @@
 # Hi, I'm Akkeem 👋
 
-**Computer Science student at CUNY** building production software — multi-tenant SaaS, AI systems, and full-stack apps.
+**Computer Science student at CUNY** building production software, multi-tenant SaaS, AI systems, and full-stack apps.
 
 Most of my work lives at the intersection of **backend engineering, applied AI, and security**. I care about the parts that don't demo well: tenant isolation, migration safety, request-boundary validation, and accessibility.
 
